@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-*   
+<!-- *    -->
 *   🖥️  See my portfolio at [My Portfolio](https://milancodes.netlify.app)
 *   🧠  I'm learning Node.Js
 *   🤝  I'm open to collaborating on ReactJS
