@@ -7,7 +7,7 @@ Web Developer
 <!-- *    -->
 *   🖥️  See my portfolio at [My Portfolio](https://milancodes.netlify.app)
 *   🧠  I'm a full-stack Developer, Currently Learning Solidity
-*   🤝  I'm open to collaborating on ReactJS
+*   🤝  I'm open to collaborating on Works
       ### Skills 
 
       <p align="left">
